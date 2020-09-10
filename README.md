@@ -43,6 +43,11 @@ Extensões instaladas:
 - Prettier
 - One Dark Pro
 - Live Server
+- Bracket Pair Colorizer
+- GitLens
+- Presentation Mode
+- Markdown All in One
+- Import Cost
 
 ## Configuração .NET Core
 
@@ -82,6 +87,4 @@ Extensões instaladas:
 - C# Extensions
 - C# XML Documentation Comments
 - Prettier
-- One Dark Pro
-- Color Highlight
 - Material Icon Theme
